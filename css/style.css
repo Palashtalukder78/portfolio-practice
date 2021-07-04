@@ -30,7 +30,7 @@ section img{
     padding-top: 7%;
 }
 #top-banner{
-    background-image: url(/images/top-bg.png);
+    background-image: url(/images/top.png);
     background-repeat: no-repeat;
 }
 .button-link{
@@ -47,7 +47,7 @@ section img{
     padding-top: 3%;
 }
 #dream-developer{
-    background: url(/images/right-bg.png);
+    background: url(/images/right.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -62,7 +62,7 @@ section img{
     padding: 2% 4%;
 }
 .left-background{
-    background: url(/images/left-bg.png);
+    background: url(/images/left.png);
     background-repeat: no-repeat;
     background-position: left;
 }
