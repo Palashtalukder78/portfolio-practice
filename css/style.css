@@ -62,7 +62,7 @@ section img{
     padding: 2% 4%;
 }
 .left-background{
-    background: url(images/left.png);
+    background: url("/images/left.png");
     background-repeat: no-repeat;
     background-position: left;
 }
