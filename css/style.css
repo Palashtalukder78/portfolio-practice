@@ -47,7 +47,7 @@ section img{
     padding-top: 3%;
 }
 #dream-developer{
-    background-image: url(images/right.png);
+    background-image: url("/images/right.png");
     background-repeat: no-repeat;
     background-position: right;
 }
